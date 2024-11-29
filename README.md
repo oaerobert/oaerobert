@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oaerobert
+- 👋 Hi, I’m Oke - I'm a Second Year Economics Student
 - 👀 I’m interested in using mathematics and programming to solve real-world problems in economics and finance.
-- 🌱 I’m currently learning Python and Stata to develop my skills in data analysis, econometrics and quantitative modelling.
+- 🌱 I’m currently learning Python and STATA to develop my skills in data analysis, econometrics and quantitative modelling.
 - 📫 Reach me by email: okeaerobert@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: At 18, I was the youngest attendee at a tech networking event - it inspired my coding journey!
