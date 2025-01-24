@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Oke - a Second Year Mathematical Economics and Statistics Student at the University of Birmingham.
-- 👀 I’m interested in using mathematics and programming to solve real-world problems in quantitative analytics and economics.
-- 🌱 I’m currently learning Python (strongest current proficiency), R, C++, SQL to develop my skills in data analysis, econometrics and quantitative modelling.
+- Languages: Python (Advanced), Stata (Advanced)
+- Here is a link to my first-class (80%) Econometric Coding Assignment on the Gender Wage Gap: incorporating hypothesis testing, data visualisations, logarithmic transformations and multi-variate regression. [Link](https://drive.google.com/file/d/1_vjdyZPVbE-Fdg0OYoJp1o-g1X4NbuZA/view?usp=sharing) 
 
